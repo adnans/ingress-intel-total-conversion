@@ -4,9 +4,9 @@
 // @category       Map Tiles
 // @version        0.2.0.20170108.21732
 // @namespace      https://github.com/jonatkins/ingress-intel-total-conversion
-// @updateURL      https://static.iitc.me/build/release/plugins/basemap-opencyclemap.meta.js
-// @downloadURL    https://static.iitc.me/build/release/plugins/basemap-opencyclemap.user.js
-// @description    [iitc-2017-01-08-021732] Add the OpenCycleMap.org map tiles as an optional layer.
+// @updateURL      https://github.com/adnans/ingress-intel-total-conversion/raw/master/plugins/basemap-opencyclemap.user.js
+// @downloadURL    https://github.com/adnans/ingress-intel-total-conversion/raw/master/plugins/basemap-opencyclemap.user.js
+// @description    [iitc-2018-02-15] Add additional ThunderForest map tiles
 // @include        https://*.ingress.com/intel*
 // @include        http://*.ingress.com/intel*
 // @match          https://*.ingress.com/intel*
