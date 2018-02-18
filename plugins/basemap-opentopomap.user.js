@@ -24,6 +24,7 @@ function wrapper(plugin_info) {
 if(typeof window.plugin !== 'function') window.plugin = function() {};
 
 // PLUGIN START ////////////////////////////////////////////////////////
+// Yes, this is just the Stamen map file hacked up. I don't see any police here.
 
 
 // use own namespace for plugin
